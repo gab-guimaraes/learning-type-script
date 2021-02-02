@@ -1,0 +1,20 @@
+{
+  "name": "learning-type-script",
+  "version": "1.0.0",
+  "description": "Learning Type Script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnwick182/learning-type-script.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnwick182/learning-type-script/issues"
+  },
+  "homepage": "https://github.com/johnwick182/learning-type-script#readme"
+}
